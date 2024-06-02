@@ -92,6 +92,8 @@ DBSynchronization.xml
 /**/AtlCoreFinancial
 /**/AtlCostAccounting
 /**/AtlFoundation
+/**/ATLGlobalization
+/**/ATLGlobalizationLTM
 /**/AtlMaterialhandling
 /**/AtlPersonnel
 /**/AtlSampleTests
@@ -190,6 +192,7 @@ DBSynchronization.xml
 /**/MonitoringAndTelemetry
 /**/OperationalInsights
 /**/PaymentPredictor
+/**/PayrollIntegration
 /**/Personnel
 /**/PersonnelBusinessProcess
 /**/PersonnelCore
@@ -216,6 +219,7 @@ DBSynchronization.xml
 /**/RevenueRecognition
 /**/ScaleUnitDatapipeline
 /**/ScaleUnitManagement
+/**/SCMCopilot
 /**/SCMInsights
 /**/SCMMobile
 /**/SelfHealing
@@ -236,8 +240,11 @@ DBSynchronization.xml
 /**/UnitOfMeasure
 /**/WarehouseExecutionWorkload
 /**/WarehouseExecutionWorkloadBackoffice
+/**/WarehouseOrders
+/**/WarehouseOrdersIntegration
 /**/WarehousePlanning
 /**/WHSAppTaskValidator
 /**/WHSTests
 /**/WMSAdvancedMigration
 /**/WorkloadCommon
+/**/fieldserviceintegration
