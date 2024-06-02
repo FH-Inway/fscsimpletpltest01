@@ -3,7 +3,7 @@
 	<AppliedUpdates xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
 	<Customization>Allow</Customization>
 	<Description></Description>
-	<DisplayName>fscsimpletpltest01</DisplayName>
+	<DisplayName>fscsimpletpl01</DisplayName>
 	<Id>896000512</Id>
 	<InternalsVisibleTo xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
 	<Layer>14</Layer>
