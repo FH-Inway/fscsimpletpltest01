@@ -2,19 +2,6 @@ name: (BUILD)
 
 on:
   workflow_dispatch:
-   inputs:
-      version:
-        description: 'Select FSCM Version'
-        required: false
-        default: ''
-        type: choice
-        options:
-        - "*"
-
-      includeTestModels:
-        type: boolean
-        default: false
-        description: Include test models
 
 permissions:
   contents: read
@@ -52,7 +39,7 @@ jobs:
         id: ReadSettings
         uses: fscpscollaborative/fscps.gh/ReadSettings@v2.1
         with:
-          version: ${{ inputs.version }}
+          version: "*"
           
    Build:
     needs: [ Initialization ]
