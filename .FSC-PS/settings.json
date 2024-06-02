@@ -1,0 +1,8 @@
+{
+    "type":"FSCM",
+    "packageName": "D365FSCMExtension",
+    "buildVersion": "10.0.39",
+    "ciBranches": "main,release",
+    "useLocalNuGetStorage":true,
+    "deploymentScheduler":false
+}

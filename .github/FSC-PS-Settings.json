@@ -1,0 +1,5 @@
+{
+      "templateUrl":  "https://github.com/fscpscollaborative/fscps.fscsimpletpl",
+      "templateBranch":  "main",
+      "runs-on":  "windows-latest"
+}
